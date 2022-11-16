@@ -1,5 +1,4 @@
 ## ¡Hola! Soy Ashley 👋
----
 ### About me:
 - 📚 Aprendiendo sobre el desarrollo web en [Laboratoria](https://www.laboratoria.la/); soy **Front-End Developer Junior**
 - ✨ Mis lemas son: *Aprender haciendo* y *Vuelve a intentarlo*
