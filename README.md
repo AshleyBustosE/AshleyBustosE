@@ -1,9 +1,9 @@
 ## ¡Hola! Soy Ashley 👋
 ### About me:
-- 📚 Aprendiendo sobre el desarrollo web en [Laboratoria](https://www.laboratoria.la/); soy **Front-End Developer Junior**
+- 📚 Aprendiendo sobre el desarrollo web; soy **Full-Stack Developer Junior**
 - ✨ Mis lemas son: *Aprender haciendo* y *Vuelve a intentarlo*
 - 💻 El año 2022 he conocido el código y ha sido un desafío fascinante
-- 🤩 Fun Fact: ¡Me encanta leer cómics!
+- 🤩 Fun Fact: ¡Me encanta leer!
 - ✉ ashley.bustos.e@gmail.com
 
 ### Puedes contactarme por:
