@@ -10,5 +10,5 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashleybustos/)
 
 ### Herramientas & Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,git,github,firebase,react,figma,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,git,github,eclipse,firebase,react,java,jest,nodejs,postman,figma,mysql,ts,angular,discord)](https://skillicons.dev)
 
